@@ -1,0 +1,2 @@
+def games():
+    return None
