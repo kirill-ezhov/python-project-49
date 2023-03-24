@@ -1,12 +1,11 @@
-#!/usr/bin/python
-
-from brain_games.brain_engine import question
+from brain_games import cli
 
 
 def main():
-    print('Welcome to the Brain Games!')
-    question()
+    print("Welcome to the Brain Games!")
+    cli.welcome_user()
 
 
 if __name__ == '__main__':
     main()
+
