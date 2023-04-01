@@ -1,4 +1,18 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/kirill-ezhov/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/kirill-ezhov/python-project-49/actions)
-[![Actions Status](https://github.com/kirill-ezhov/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/kirill-ezhov/python-project-49/actions)
-[](<script async id="asciicast-u4VM4sQqWk1vkZmA27yvByurS" src="https://asciinema.org/a/u4VM4sQqWk1vkZmA27yvByurS.js"></script>)
+brain_calc:
+https://asciinema.org/a/W7Xa4raPv0IEdp0ZU54fu0A8j
+
+brain_even:
+https://asciinema.org/a/MuYQfptWmp5JeaF27UN2I1YW1
+
+brain_gcd:
+https://asciinema.org/a/CfTrsMqeWxUooNk7QUhyhQtBG
+
+brain_prime:
+https://asciinema.org/a/Pcpxz3wXqFQg15LgAUSO8p0pA
+
+brain_progression:
+https://asciinema.org/a/N9G8jTAYQ2V0vjLDuotF2GCpM
+
+
+
