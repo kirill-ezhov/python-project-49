@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "Brain Games: collection of math games"
 authors = ["KirEz022 <93149806+KirEz022@users.noreply.github.com>"]
 readme = "README.md"
 packages = [
@@ -10,6 +10,13 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.8.1"
 prompt = "^0.4.1"
+repository = 'https://github.com/kirill-ezhov/python-project-49'
+classifiers = [
+    "Programming Language :: Python",
+    "Natural Language :: English",
+    "Topic :: Games",
+    "Environment :: Console",
+]
 
 
 
