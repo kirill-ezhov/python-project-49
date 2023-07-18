@@ -1,14 +1,15 @@
 .venv/
 
-.idea/
+idea/
 
-.brain_games/
+brain_games/
 __pycache__
 
-.dist/
+dist/
 
 
 python-project-49
+
 
 
 
