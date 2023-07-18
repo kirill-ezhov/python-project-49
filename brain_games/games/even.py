@@ -1,9 +1,9 @@
 from random import randint
 
-OUTPUT_TASK = 'Answer "yes" if the number is even, otherwise answer "no".'
+TASK = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
-def is_even(number: int):
+def is_even(number: int) -> bool:
     return number % 2 == 0
 
 
